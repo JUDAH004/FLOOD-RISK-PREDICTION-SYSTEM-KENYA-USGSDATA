@@ -94,13 +94,15 @@ Due to file size limits, datasets are not included in this repository.
 
 Download from:
 
-- CHIRPS Rainfall:
+- CHIRPS Rainfall(Monthly Data(2010/01 - 2026/02)):
 https://data.chc.ucsb.edu/products/CHIRPS-2.0/
 
-- Elevation (SRTM):
+- Elevation (SRTM)(Product: SRTM 1 Arc-Second Global
+Format: GeoTIFF (.tif))
+(All tiles covering Kenya (~70+ tiles)):
 https://earthexplorer.usgs.gov/
 
-- Land Use:
+- Land Use(kenya-latest-free.shp.zip):
 https://download.geofabrik.de/africa/kenya.html
 
 After downloading, place files in the /data folder.
