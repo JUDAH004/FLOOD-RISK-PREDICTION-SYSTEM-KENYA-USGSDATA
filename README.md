@@ -88,6 +88,22 @@ Flood Risk Prediction System/
 ## 4. Data & Technical Details
 
 ### Data Sources
+## Data
+
+Due to file size limits, datasets are not included in this repository.
+
+Download from:
+
+- CHIRPS Rainfall:
+https://data.chc.ucsb.edu/products/CHIRPS-2.0/
+
+- Elevation (SRTM):
+https://earthexplorer.usgs.gov/
+
+- Land Use:
+https://download.geofabrik.de/africa/kenya.html
+
+After downloading, place files in the /data folder.
 
 | Source | Data Type | Format | Size | Resolution | Coverage | Purpose |
 |--------|-----------|--------|------|------------|----------|---------|
